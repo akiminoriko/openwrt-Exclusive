@@ -3,7 +3,7 @@ config adbyby
 	option daemon '2'
 	option lan_mode '0'
 	option wan_mode '0'
-	option mem_mode '1'
+	option mem_mode '0'
 	option update_source '0'
 	option enable '0'
 	option block_ios '0'
