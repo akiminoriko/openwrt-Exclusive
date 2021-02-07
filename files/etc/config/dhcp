@@ -10,7 +10,7 @@ config dnsmasq
 	option leasefile '/tmp/dhcp.leases'
 	option nonwildcard '1'
 	option localservice '1'
-	option filter_aaaa '1'
+	option filter_aaaa '0'
 	option port '53'
 	option rebind_protection '1'
 	option resolvfile '/tmp/resolv.conf.d/resolv.conf.auto'
@@ -18,7 +18,7 @@ config dnsmasq
 config dhcp 'lan'
 	option interface 'lan'
 	option limit '150'
-	option leasetime 'infinite'
+	option leasetime '514m'
 	option start '50'
 
 config dhcp 'wan'
