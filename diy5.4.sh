@@ -31,3 +31,4 @@ git clone https://github.com/jerrykuku/luci-app-argon-config.git package/luci-ap
 # git clone https://github.com/garypang13/luci-app-bypass.git package/luci-app-bypass
 # git clone https://github.com/garypang13/luci-app-dnsfilter.git package/luci-app-dnsfilter
 # git clone https://github.com/BCYDTZ/luci-app-UUGameAcc.git package/luci-app-UUGameAcc
+git clone https://github.com/BGzErol/luci-app-netdata.git package/luci-app-netdata
