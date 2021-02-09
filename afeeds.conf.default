@@ -11,4 +11,3 @@ src-git freifunk https://github.com/freifunk/openwrt-packages.git
 src-git helloworld https://github.com/fw876/helloworld
 src-git diy https://github.com/firker/diy-ziyong
 src-git jerryk https://github.com/jerrykuku/openwrt-package
-src-git bgzerol https://github.com/BGzErol/luci-app-netdata.git
